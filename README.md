@@ -5,5 +5,5 @@ This app retrieves the list of the **S&P 500** (from Wikipedia) and its correspo
 * Data source: [Wikipedia](https://en.wikipedia.org/wiki/List_of_S%26P_500_companies)
 * Libraries: `streamlit`, `pandas`, `matplotlib`, `base64`, `yfinance`
 
-Additional references:
+Additional references:  
 https://pypi.org/project/yfinance/
