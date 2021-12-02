@@ -88,7 +88,6 @@ st.set_option('deprecation.showPyplotGlobalUse', False)
 
 # Sidebar - Company selection
 sorted_symbol_unique = sorted(first10)
-
 # Pass exception if no Sectors have been selected
 try:
     selected_symbol = st.sidebar.multiselect('Company', sorted_symbol_unique, sorted_symbol_unique[0])
